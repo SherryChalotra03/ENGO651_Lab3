@@ -23,10 +23,10 @@ A web mapping application to visualize building permits in Calgary, built as par
 
 ## Project Structure
 ENGO651_Lab3/   <br>
-├── index.html   <tb>      # Main HTML file with structure and scripts <br>
-├── styles.css       # CSS for styling the app<br>
-├── script.js        # JavaScript logic for map and API interaction<br>
-└── README.md        # This file<br>
+├── index.html   <pre>      # Main HTML file with structure and scripts <br>
+├── styles.css   <pre>  # CSS for styling the app<br>
+├── script.js      <pre>  # JavaScript logic for map and API interaction<br>
+└── README.md     <pre>   # This file<br>
 
 ## Installation & testing
 1. **Clone or Download the Project**:
