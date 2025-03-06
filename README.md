@@ -22,8 +22,8 @@ A web mapping application to visualize building permits in Calgary, built as par
 - Open Calgary API: Data source (https://data.calgary.ca/resource/c2es-76ed.json).
 
 ## Project Structure
-ENGO651_Lab3/
-├── index.html       # Main HTML file with structure and scripts <br>
+ENGO651_Lab3/   <br>
+├── index.html   <tb>      # Main HTML file with structure and scripts <br>
 ├── styles.css       # CSS for styling the app<br>
 ├── script.js        # JavaScript logic for map and API interaction<br>
 └── README.md        # This file<br>
